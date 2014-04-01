@@ -1,0 +1,36 @@
+{
+  "name": "coffee-lint",
+  "main": "./lib/main",
+  "version": "0.7.2",
+  "private": true,
+  "description": "CoffeeScript linter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dotcypress/coffee-lint"
+  },
+  "author": {
+    "name": "Vitaly Domnikov",
+    "email": "dotcypress@gmail.com",
+    "url": "http://dotcypress.github.io"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "underscore-plus": "~1.0.5"
+  },
+  "readme": "# coffee-lint\n\nCoffee script linter for Atom editor\n\n* `cmd-ctrl-l` - lint current file\n* `cmd-ctrl-shift-l` - toggle results panel\n\n## Configuration\nYou can change lint options by adding coffeelint.json file in root of project.\n\n![](https://raw.github.com/dotcypress/coffee-lint/master/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dotcypress/coffee-lint/issues"
+  },
+  "homepage": "https://github.com/dotcypress/coffee-lint",
+  "_id": "coffee-lint@0.7.2",
+  "dist": {
+    "shasum": "ac45b6110cb92373a4c868ac522d4db917cfc7f6"
+  },
+  "_resolved": "/var/folders/mp/1mm93y_d4yjb65r8n251cgfm0000gn/T/d-114222-47930-19m7psj/package.tgz",
+  "_from": "/var/folders/mp/1mm93y_d4yjb65r8n251cgfm0000gn/T/d-114222-47930-19m7psj/package.tgz"
+}

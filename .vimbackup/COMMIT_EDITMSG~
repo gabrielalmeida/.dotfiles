@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .meteor/release
+#
+# Untracked files:
+#	.gitignore
+#
+diff --git a/.meteor/release b/.meteor/release
+index 2107d33..a3df0a6 100644
+--- a/.meteor/release
++++ b/.meteor/release
+@@ -1 +1 @@
+-blaze-rc1
++0.8.0

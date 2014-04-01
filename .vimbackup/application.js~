@@ -1,0 +1,6 @@
+
+ steroids.view.navigationBar.show("Hello World");
+
+var googleView = new steroids.views.WebView("http://demo.famo.us/tweetus/");
+
+steroids.layers.push(googleView);
