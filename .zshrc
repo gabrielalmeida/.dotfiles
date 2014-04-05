@@ -86,3 +86,6 @@ function dev() {
             done
      fi
 }
+
+export PATH="$HOME/.parts/autoparts/bin:$PATH"
+eval "$(parts init -)"
